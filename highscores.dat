@@ -1,0 +1,49 @@
+{
+    "lastNameUsed": "Maciek",
+    "highscores": [{
+        "scores": [
+            {
+                "time": 4.3,
+                "player": "Maciek"
+            },
+            {
+                "time": 4.6,
+                "player": "Chyba Maciek"
+            },
+            {
+                "time": 4.7,
+                "player": "Król Maciuś I"
+            },
+            {
+                "time": 4.8,
+                "player": "Też Maciek"
+            },
+            {
+                "time": 4.9,
+                "player": "Również Maciek"
+            },
+            {
+                "time": 4.9,
+                "player": "Ja"
+            },
+            {
+                "time": 5.1,
+                "player": "Maciek"
+            },
+            {
+                "time": 5.1,
+                "player": "Oczywiście Maciek"
+            },
+            {
+                "time": 5.2,
+                "player": "Także Maciek"
+            },
+            {
+                "time": 7.3,
+                "player": "Nie Maciek"
+            }
+        ],
+        "mapName": "Poziom 1",
+        "mapStructure": "####\n#.X#\n#..###\n#Bp..#\n#..b.#\n#..###\n####\n"
+    }]
+}
